@@ -1,0 +1,3 @@
+My name is	Harshit	Suyal and	this is 
+a code for	counting the spaces, lines, tabs and meta characters.
+% $ # @ @ % % ^ ( \
